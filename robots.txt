@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://renwentao.top/sitemap.xml
-Sitemap: http://renwentao.top/baidusitemap.xml
+Sitemap: http://poseidonon.coding.me/sitemap.xml
+Sitemap: http://poseidonon.coding.me/baidusitemap.xml
