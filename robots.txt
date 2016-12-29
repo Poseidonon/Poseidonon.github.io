@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
-Allow: /tags/ 
+Allow: /tags/
+Allow: /categories/ 
 
 Disallow: /vendors/
 Disallow: /js/
